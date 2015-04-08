@@ -1,11 +1,11 @@
 ## What?
-Switcheroo is a product demo bar designed for showcasing your products (themes, websites, plugins) in a nice and sleek way.
+Demonstration bar to ( themes , websites, plugins ) Beautiful . Original https://github.com/OriginalEXE/Switcheroo
 
 ## Demo?
-Switcheroo demo can be found here: [http://switcheroo.getkodo.com/](http://switcheroo.getkodo.com/)
+Projeto Testado neste site: [http://hsainformatica.com.br/hsacoding/](http://hsainformatica.com.br/hsacoding/)
 
 ## Browsers supported?
-It officially supports modern browsers and IE >= 8
+It officially supports modern browsers
 
 ## Working on mobile/tablets?
 iDevices have some serious issues with using iframe this way, that's why bar is automatically closed on tablets/mobile.
@@ -14,7 +14,7 @@ iDevices have some serious issues with using iframe this way, that's why bar is 
 Yes, it is.
 
 ## Can I use it in commercial purposes?
-Switcheroo is licensed under MIT licence, which basically means you can do anything with it (just don't remove the link to this github page from the js source).
+Not, only apprenticeship.
 
 ## How do I add products?
 Products are to be added inside products.js file, and assigned to $products global variable. Sample markup:
@@ -64,3 +64,5 @@ Of course you can, simply add dark class to the body element and voila.
 
 ## How can I contribute?
 Find bugs, report bugs, fix bugs.
+
+HSACoding
